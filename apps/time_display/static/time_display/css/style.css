@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 970px;
+    margin: 0 auto;
+}
+
+h4 {
+    margin: 0 auto;
+    width: 25%;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 2px solid black;
+    line-height: 2;
+}
+
+div {
+    border: 2px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center; 
+}
